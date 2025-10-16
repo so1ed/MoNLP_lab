@@ -30,7 +30,7 @@ I really love eating dumpling.
 ```
 
 ## Инструкция по сборке
-- Клонировать данный репозиторий командой: ```git clone https://github.com/username/repository.git```
+- Клонировать данный репозиторий командой: ```git clone https://github.com/so1ed/MoNLP_lab.git```
 - В python окружении запустить: ```pip install -r requirements.txt```
 - Указать в файле ```text.txt``` необходимый текст.
 - Выполнить команду: ```python main.py```
