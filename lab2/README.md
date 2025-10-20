@@ -62,7 +62,7 @@ In the future, robots will perform routine tasks.
 
 ## Инструкция по сборке:
 - Клонировать данный репозиторий командой: ```git clone https://github.com/so1ed/MoNLP_lab.git```
-- Перейти в нужную директорию командой: ```cd lab2```
+- Перейти в нужную директорию командой: ```cd MoNLP_lab\lab2```
 - В python окружении запустить: ```pip install -r requirements.txt```
 - Указать в файле ```text.txt``` необходимый текст.
 - Выполнить команду: ```jupyter notebook lab2.ipynb```
