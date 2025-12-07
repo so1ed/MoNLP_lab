@@ -1,9 +1,0 @@
-nltk
-pandas
-matplotlib
-seaborn
-scikit-learn
-jupyter
-numpy
-gensim
-tensorflow
